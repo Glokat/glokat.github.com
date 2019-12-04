@@ -1,0 +1,53 @@
+#naslov{
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+  padding-bottom:0px;
+  font-family: 'Pacifico', cursive;
+text-shadow: 2px 8px 11px rgba(206,89,55,0.89);
+}
+#opis {
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 40px;
+text-shadow: 2px 8px 11px rgba(206,89,55,0.89);
+}
+#nav {
+
+  width: 100%;text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+text-shadow: 2px 8px 11px rgba(206,89,55,0.89);
+}
+#platno {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 30px;
+  border-style: solid;
+border-style:none;
+margin-top: 40px;
+}
+#vsebina {
+  border-style:none;
+  padding: 30px;
+  background-color: white;
+  border-radius: 5px;
+  -webkit-box-shadow: 16px 20px 31px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 20px 31px 0px rgba(0,0,0,0.75);
+box-shadow: 16px 20px 31px 0px rgba(0,0,0,0.75);
+
+}
+a {
+  background-color:#0b33e6;
+  color: white;
+  padding: 10px;
+  padding-bottom: 4px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  text-decoration: none;
+  font-size: 25px;
+}
+body {
+  background-color:#6d82d1;
+  font-family: 'Dancing Script', cursive;
+}
